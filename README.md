@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicbasher 
 - 👀 I’m interested in Web Development for startups and Product Design.
-- 🌱 I’m currently learning ruby on rails.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on startup projects in the ecommerce space. 
 - 📫 How to reach me nicbarabash@gmail.com
 
